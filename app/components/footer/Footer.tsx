@@ -36,7 +36,7 @@ const Footer = () => {
               your premier destination for all things literary. As your ultimate
               hub for exploration and discovery, Balozi invites you to explore
               our carefully curated shelves brimming with literary gems. Whether
-              you crave the pulse-pounding excitement of bestsellers or the
+              you crave the pulse pounding excitement of bestsellers or the
               timeless allure of classics, we have something to satisfy every
               readers appetite. With a team of passionate book enthusiasts at
               your service, you will receive personalized recommendations and
