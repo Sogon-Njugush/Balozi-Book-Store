@@ -1,6 +1,6 @@
+"use server"
 export const dynamic = "force-dynamic"
 export const revalidate = 0;
-"use server"
 
 import Container from "./components/Container";
 import HomeBanner from "./components/HomeBanner";
