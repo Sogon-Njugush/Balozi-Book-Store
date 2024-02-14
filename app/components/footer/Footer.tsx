@@ -32,13 +32,23 @@ const Footer = () => {
           <div className="w-full md:w-1/3 mb-6 md:mb-0">
             <h3 className="text-base font-bold mb-2">About Us</h3>
             <p className="mb-2">
-            Dive into the rich tapestry of literature at Balozi Book Store, your premier destination for all things literary.
-             As your ultimate hub for exploration and discovery, Balozi invites you to explore our carefully curated shelves brimming with literary gems.
-              Whether you crave the pulse-pounding excitement of bestsellers or the timeless allure of classics, we have something to satisfy every reader's appetite. 
-              With a team of passionate book enthusiasts at your service, you'll receive personalized recommendations and expert guidance to enhance your reading journey. 
-              Step through the doors of Balozi Book Store and prepare to be transported to a realm of imagination and enlightenment, where each book holds the promise of a new adventure
+              Dive into the rich tapestry of literature at Balozi Book Store,
+              your premier destination for all things literary. As your ultimate
+              hub for exploration and discovery, Balozi invites you to explore
+              our carefully curated shelves brimming with literary gems. Whether
+              you crave the pulse-pounding excitement of bestsellers or the
+              timeless allure of classics, we have something to satisfy every
+              reader's appetite. With a team of passionate book enthusiasts at
+              your service, you'll receive personalized recommendations and
+              expert guidance to enhance your reading journey. Step through the
+              doors of Balozi Book Store and prepare to be transported to a
+              realm of imagination and enlightenment, where each book holds the
+              promise of a new adventure
             </p>
-            <p>&copy; {new Date().getFullYear()} Balozi Book Store. All rights reserved</p>
+            <p>
+              &copy; {new Date().getFullYear()} Balozi Book Store. All rights
+              reserved
+            </p>
           </div>
           <FooterList>
             <h3 className="text-base font-bold mb-2">Follow Us</h3>
