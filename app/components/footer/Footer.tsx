@@ -38,8 +38,8 @@ const Footer = () => {
               our carefully curated shelves brimming with literary gems. Whether
               you crave the pulse-pounding excitement of bestsellers or the
               timeless allure of classics, we have something to satisfy every
-              reader's appetite. With a team of passionate book enthusiasts at
-              your service, you'll receive personalized recommendations and
+              readers appetite. With a team of passionate book enthusiasts at
+              your service, you will receive personalized recommendations and
               expert guidance to enhance your reading journey. Step through the
               doors of Balozi Book Store and prepare to be transported to a
               realm of imagination and enlightenment, where each book holds the
